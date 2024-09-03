@@ -16,3 +16,4 @@ if __name__ == "__main__":
             print("Exiting...")
             serial_port.close()  # 프로그램 종료 시 시리얼 포트를 닫습니다.
             break
+# test
